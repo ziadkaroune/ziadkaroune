@@ -1,6 +1,6 @@
 # Hi there, I'm Ziad Karoune 👋  
 
-**Frontend Developer | Software Engineering Student | Open-Source Contributor**  
+**Frontend Developer | Software Engineering Student | 
 
 ## 👨‍💻 About Me  
 
