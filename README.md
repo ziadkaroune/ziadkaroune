@@ -48,6 +48,6 @@ Developed an **Eco-Map Friendly** project using **Warsaw API** and **OpenStreetM
 💼 **LinkedIn:** [Ziad Karoune](https://www.linkedin.com/in/ziad-karoune/)
 
 ---
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dracula&hide_border=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ziadkaroune&layout=compact&theme=dracula&hide_border=true)  
 
 **Let’s build something amazing together!** 🚀  
