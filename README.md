@@ -1,48 +1,53 @@
-# Hi there, I'm Ziad Karoune 👋
+# Hi there, I'm Ziad Karoune 👋  
 
-Frontend Developer | Software Engineering Student | Tech Enthusiast
+**Frontend Developer | Software Engineering Student | Open-Source Contributor**  
 
-## 🚀 About Me
+## 👨‍💻 About Me  
 
-I'm a passionate software engineering student at Warsaw Management University with expertise in frontend development and system administration. My journey includes freelancing, hackathons, and continuous learning in the tech field.
- 
-## 🔧 Technologies & Skills
+As a software engineering student at **42 Warsaw** and **warsaw management university**, I specialize in frontend development, where design and functionality converge. I’m passionate about crafting user-centric, dynamic interfaces that bring ideas to life through code. 
 
-**Programming Languages:**  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
+---
 
-**Frontend:**  
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+## 🛠️ Tech Stack  
 
-**Tools & DevOps:**  
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+### **Languages**  
+<p align="left">  
+  <img src="https://skillicons.dev/icons?i=js,c,cpp,php" alt="JavaScript, C, C++, PHP" />  
+</p>  
 
-## 🏆 Awards
+### **Frontend & Backend**  
+<p align="left">  
+  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,wordpress" alt="React, HTML, CSS, Tailwind, WordPress" />  
+</p>  
+
+### **DevOps & Tools**  
+<p align="left">  
+  <img src="https://skillicons.dev/icons?i=docker,git,linux,mysql,bash" alt="Docker, Git, Linux, MySQL, Bash" />  
+</p>  
+
+---
+
+## 🏆 Awards & Achievements  
 
 🏆 **Honor Prize – HumanHack Hackathon 2024**  
-Developed an innovative Eco-Map Friendly project using Warsaw API and Open Source Maps to promote environmental awareness.
+Developed an **Eco-Map Friendly** project using **Warsaw API** and **OpenStreetMap** to promote sustainability.  
 
-## 🌱 Currently Learning
+---
 
-- Advanced React patterns
-- Backend development with Node.js
-- Typescript
+## 📚 Currently Learning  
 
-## 📫 How to Reach Me
+- **Advanced React (State Management, Performance Optimization)**  
+- **Node.js & Express (Backend Development)**  
+- **Typescript**  
 
-📧 Email: [ziad99kr@gmail.com](mailto:ziad99kr@gmail.com)  
-📱 Phone: +48 734 690 645  
+---
 
-## 🎯 GitHub Stats
+## 📫 Let's Connect!  
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+📧 **Email:** [ziad99kr@gmail.com](mailto:ziad99kr@gmail.com)  
+💼 **LinkedIn:** [Ziad Karoune](https://www.linkedin.com/in/ziad-karoune/)
 
-Let's connect and build something amazing together!
+---
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dracula&hide_border=true)  
+
+**Let’s build something amazing together!** 🚀  
