@@ -4,7 +4,7 @@
 
 ## 👨‍💻 About Me  
 
-As a software engineering student at **42 Warsaw** and **warsaw management university**, I specialize in frontend development, where design and functionality converge. I’m passionate about crafting user-centric, dynamic interfaces that bring ideas to life through code. 
+Dedicated to transforming ideas into dynamic front-end applications through clean, responsive design. Experienced in building interfaces that prioritize user engagement. Freelance projects have enhanced my ability to deliver client-specific solutions with precision. Passionate about evolving with modern web technologies  
 
 ---
 
