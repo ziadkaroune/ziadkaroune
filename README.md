@@ -12,12 +12,12 @@ Dedicated to transforming ideas into dynamic front-end applications through clea
 
 ### **Languages**  
 <p align="left">  
-  <img src="https://skillicons.dev/icons?i=js,c,cpp,php" alt="JavaScript, C, C++, PHP" />  
+  <img src="https://skillicons.dev/icons?i=js,c,cpp,typescript" alt="JavaScript, C, C++, Typescript" />  
 </p>  
 
 ### **Frontend & Backend**  
 <p align="left">  
-  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,wordpress" alt="React, HTML, CSS, Tailwind, WordPress" />  
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,html,css,tailwind,wordpress" alt="React, NEXTJS, nodejs, HTML, CSS, Tailwind, WordPress" />  
 </p>  
 
 ### **DevOps & Tools**  
