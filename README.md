@@ -34,20 +34,11 @@ Developed an **Eco-Map Friendly** project using **Warsaw API** and **OpenStreetM
 
 ---
 
-## 📚 Currently Learning  
-
-- **Advanced React (State Management, Performance Optimization)**  
-- **Node.js & Express (Backend Development)**  
-- **Typescript**  
-
----
-
 ## 📫 Let's Connect!  
 
 📧 **Email:** [ziad99kr@gmail.com](mailto:ziad99kr@gmail.com)  
 💼 **LinkedIn:** [Ziad Karoune](https://www.linkedin.com/in/ziad-karoune/)
 
 ---
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ziadkaroune&layout=compact&theme=dracula&hide_border=true)  
 
 **Let’s build something amazing together!** 🚀  
