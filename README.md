@@ -1,6 +1,6 @@
 # Hi there, I'm Ziad Karoune 👋  
 
-**Frontend Developer | Software Engineering Student |** 
+**Frontend Developer | Software Engineering  |** 
 
 ## 👨‍💻 About Me  
 
