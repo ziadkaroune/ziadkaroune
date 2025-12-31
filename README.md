@@ -1,44 +1,38 @@
-# Hi there, I'm Ziad Karoune 👋  
+# ZIAD KAROUNE
+#### Front-End Engineer | Two-Time Hackathon Winner 
 
-**Frontend Developer | Software Engineer  |** 
 
-## 👨‍💻 About Me  
 
-Dedicated to transforming ideas into dynamic front-end applications through clean, responsive design. Experienced in building interfaces that prioritize user engagement. Freelance projects have enhanced my ability to deliver client-specific solutions with precision. Passionate about evolving with modern web technologies  
 
----
-
-## 🛠️ Tech Stack  
-
-### **Languages**  
-<p align="left">  
-  <img src="https://skillicons.dev/icons?i=js,c,cpp,typescript" alt="JavaScript, C, C++, Typescript" />  
-</p>  
-
-### **Frontend & Backend**  
-<p align="left">  
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,html,css,tailwind,wordpress" alt="React, NEXTJS, nodejs, HTML, CSS, Tailwind, WordPress" />  
-</p>  
-
-### **DevOps & Tools**  
-<p align="left">  
-  <img src="https://skillicons.dev/icons?i=docker,git,linux,mysql,bash" alt="Docker, Git, Linux, MySQL, Bash" />  
-</p>  
+#### Profile
+Front-end engineer specializing in building high-performance web and mobile interfaces. I focus on translating complex UI/UX designs from Figma into pixel-perfect, responsive applications using modern JavaScript frameworks.
 
 ---
 
-## 🏆 Awards & Achievements  
 
-🏆 **Honor Prize – HumanHack Hackathon 2024**  
-Developed an **Eco-Map Friendly** project using **Warsaw API** and **OpenStreetMap** to promote sustainability.  
+#### Technical Expertise
+* **Frontend**: React.js, Next.js, React Native, Tailwind CSS, Expo, Native Wind.
+* **Languages**: JavaScript, TypeScript, C, C++ .
+* **Backend & Tools**: Node.js, Express.js, REST APIs, Git, Docker, Postman .
+* **Databases**: PostgreSQL, MySQL, MongoDB .
 
 ---
 
-## 📫 Let's Connect!  
+#### Hackathon Achievements
+* **Winner - PLAY Hackathon 2025**: Developed "Smart Tracker," an LLM-powered platform providing real-time industry and regulatory updates.
+* **3rd Prize - HumanHack 2024**: Created "Eco-Map Friendly," a sustainability project utilizing the Warsaw API and Open Source Maps.
+
+---
+#### Professional Experience
+* **Front-End Developer | La Salle du Temps**: Architecting mobile interfaces by translating complex Figma mockups into functional applications .
+* **Freelance Front-End Developer | NeroIT**: Building responsive web applications with a focus on efficient state management and reusable UI components.
+* **Software Engineer Intern | Informers AG**: Developed software solutions including API-integrated tools and conducted quality validation.
+
+---
+
+#### 📫 Let's Connect!  
 
 📧 **Email:** [ziad99kr@gmail.com](mailto:ziad99kr@gmail.com)  
 💼 **LinkedIn:** [Ziad Karoune](https://www.linkedin.com/in/ziad-karoune/)
-
----
 
 **Let’s build something amazing together!** 🚀  
