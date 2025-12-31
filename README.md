@@ -5,7 +5,7 @@
 
 
 #### Profile
-Front-end engineer specializing in building high-performance web and mobile interfaces. I focus on translating complex UI/UX designs from Figma into pixel-perfect, responsive applications using modern JavaScript frameworks.
+I am a Software Engineer dedicated to the front-end, where design meets technical implementation. I build scalable applications that prioritize speed and clean architecture. From competing in hackathons to building production-ready apps, I focus on writing sustainable code that solves real problems for users while keeping the technical debt low.
 
 ---
 
