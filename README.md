@@ -24,7 +24,7 @@ I am a Software Engineer dedicated to the front-end, where design meets technica
 
 ---
 #### Professional Experience
-* **Front-End Developer | La Salle du Temps**: Architecting mobile interfaces by translating complex Figma mockups into functional applications .
+* **Front-End engineer intern | La Salle du Temps**: Architecting mobile interfaces by translating complex Figma mockups into functional applications .
 * **Freelance Front-End Developer | NeroIT**: Building responsive web applications with a focus on efficient state management and reusable UI components.
 * **Software Engineer Intern | Informers AG**: Developed software solutions including API-integrated tools and conducted quality validation.
 
