@@ -11,7 +11,7 @@ I am a Software Engineer dedicated to the front-end, where design meets technica
 
 
 #### Technical Expertise
-* **Frontend**: React.js, Next.js, React Native, Tailwind CSS, Expo, Native Wind.
+* **Frontend**: React.js, Next.js, React Native, Tailwind CSS, Expo, Native Wind , react native , zustand ...
 * **Languages**: JavaScript, TypeScript, C, C++ .
 * **Backend & Tools**: Node.js, Express.js, REST APIs, Git, Docker, Postman .
 * **Databases**: PostgreSQL, MySQL, MongoDB .
