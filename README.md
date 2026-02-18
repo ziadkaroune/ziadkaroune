@@ -32,7 +32,7 @@ I am a Software Engineer dedicated to the front-end, where design meets technica
 
 #### 📫 Let's Connect!  
 
-📧 **Email:** [ziad99kr@gmail.com](mailto:karouneziad@gmail.com)  
+📧 **Email:** [karouneziad@gmail.com](mailto:karouneziad@gmail.com)  
 💼 **LinkedIn:** [Ziad Karoune](https://www.linkedin.com/in/ziad-karoune/)
 
 **Let’s build something amazing together!** 🚀  
