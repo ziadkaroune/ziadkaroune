@@ -1,5 +1,5 @@
 # ZIAD KAROUNE
-#### Front-End Engineer | Two-Time Hackathon Winner  
+#### Software Engineer | Two-Time Hackathon Winner  
 
 
 
