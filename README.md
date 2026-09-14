@@ -5,7 +5,8 @@
 
 
 #### Profile
-I am a Software Engineer dedicated to the front-end, where design meets technical implementation. I build scalable applications that prioritize speed and clean architecture. From competing in hackathons to building production-ready apps, I focus on writing sustainable code that solves real problems for users while keeping the technical debt low .
+I'm a Software Engineering  who enjoys building things—from full-stack web and mobile applications to AI tools and automation.
+Most of my projects revolve around LLMs, RAG, and developer tools. I've built a multimodal RAG system for document and BPMN analysis, an MCP server connecting Claude to hotel APIs, and several automation tools designed to simplify everyday workflows.
 
 ---
 
