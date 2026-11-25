@@ -1,15 +1,15 @@
 <div align="center">
 
-# Hi, I'm Ziad Karoune 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Ziad%20Karoune&fontSize=60&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Software%20Engineer%20%7C%20DevOps%20%26%20AI%2FML&descSize=20&descAlignY=58" width="100%" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Software+Engineer;DevOps+%7C+AWS+%7C+Terraform+%7C+CI%2FCD;AI%2FML+%7C+LLMs+%7C+RAG+%7C+MCP;Two-Time+Hackathon+Winner+%F0%9F%8F%86" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Ziad+%F0%9F%91%8B;Software+Engineer;DevOps+%7C+AWS+%7C+Terraform+%7C+CI%2FCD;AI%2FML+%7C+LLMs+%7C+RAG+%7C+MCP;Two-Time+Hackathon+Winner+%F0%9F%8F%86" alt="Typing SVG" />
 </a>
 
 <p>
   <a href="https://www.linkedin.com/in/ziad-karoune/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:karouneziad@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=58A6FF&label=Profile+Views" />
+  <img src="https://komarev.com/ghpvc/?username=ziadkaroune&style=for-the-badge&color=58A6FF&label=Profile+Views" />
 </p>
 
 </div>
@@ -20,7 +20,7 @@
 
 I'm a software engineer focused on **DevOps** and **AI/ML**. I build intelligent applications and the infrastructure that ships and runs them reliably.
 
-- 💼 Currently a **DevOps Engineer at [Company]**, building CI/CD pipelines with GitHub Actions and managing AWS infrastructure with Terraform
+- 💼 Currently a **DevOps Engineer at EXACT SOLUTIONS**, building CI/CD pipelines with GitHub Actions and managing AWS infrastructure with Terraform
 - 🤖 Building AI-powered tools with LLMs, RAG, and MCP
 - 🔭 Exploring how to bring DevOps practices to ML workflows (MLOps)
 - 🏆 Two-time hackathon winner
@@ -89,12 +89,26 @@ I'm a software engineer focused on **DevOps** and **AI/ML**. I build intelligent
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ziadkaroune&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziadkaroune&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=ziadkaroune&theme=tokyonight&hide_border=true" />
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&area=true" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ziadkaroune&theme=tokyo-night&hide_border=true&area=true" />
+
+</div>
+
+---
+
+### 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ziadkaroune/ziadkaroune/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ziadkaroune/ziadkaroune/output/github-snake.svg" />
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/ziadkaroune/ziadkaroune/output/github-snake-dark.svg" />
+</picture>
 
 </div>
 
@@ -103,5 +117,7 @@ I'm a software engineer focused on **DevOps** and **AI/ML**. I build intelligent
 <div align="center">
 
 ### 📫 Let's build something amazing together! 🚀
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer" width="100%" />
 
 </div>
