@@ -2,9 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Ziad%20Karoune&fontSize=60&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Software%20Engineer%20%7C%20DevOps%20%26%20AI%2FML&descSize=20&descAlignY=58" width="100%" />
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Ziad+%F0%9F%91%8B;Software+Engineer;DevOps+%7C+AWS+%7C+Terraform+%7C+CI%2FCD;AI%2FML+%7C+LLMs+%7C+RAG+%7C+MCP;Two-Time+Hackathon+Winner+%F0%9F%8F%86" alt="Typing SVG" />
-</a>
+ 
 
 <p>
   <a href="https://www.linkedin.com/in/ziad-karoune/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
