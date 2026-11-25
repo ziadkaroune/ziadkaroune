@@ -78,7 +78,7 @@ I'm a software engineer focused on **DevOps** and **AI/ML**. I build intelligent
 
 ### 💼 Experience
 
-- **DevOps Engineer** @ [Company]: CI/CD pipelines with GitHub Actions, AWS infrastructure with Terraform
+- **DevOps Engineer** @EXACT SOLUTIONS : CI/CD pipelines with GitHub Actions, AWS infrastructure with Terraform
 - **Front-End Engineer Intern** @ La Salle du Temps: Turned complex Figma designs into working mobile interfaces
 - **Freelance Front-End Developer** @ NeroIT: Responsive web apps with efficient state management and reusable components
 - **Software Engineer Intern** @ Informers AG: API-integrated tools and quality validation
@@ -91,10 +91,6 @@ I'm a software engineer focused on **DevOps** and **AI/ML**. I build intelligent
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=ziadkaroune&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziadkaroune&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-<img src="https://streak-stats.demolab.com?user=ziadkaroune&theme=tokyonight&hide_border=true" />
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ziadkaroune&theme=tokyo-night&hide_border=true&area=true" />
 
 </div>
 
